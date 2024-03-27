@@ -1,0 +1,23 @@
+{
+  "matchid": "27",
+  "team1": {
+    "name": "Astralis"
+  },
+  "team2": {
+    "name": "NaVi"
+  },
+  "num_maps": 3,
+  "maplist": [
+    "de_mirage",
+    "de_overpass",
+    "de_inferno",
+    "de_nuke",
+    "de_vertigo",
+    "de_ancient",
+    "de_anubis"
+  ],
+  "players_per_team": 5,
+  "cvars": {
+    "hostname": "SD IT CS2 Tournament"
+  }
+}
