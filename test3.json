@@ -1,0 +1,44 @@
+{
+   "matchid":"77",
+   "match_title":"Fedi vs. Serega",
+   "skip_veto":false,
+   "veto_first":"team1",
+   "side_type":"standard",
+   "clinch_series":true,
+   "players_per_team":5,
+   "min_players_to_ready":2,
+   "min_spectators_to_ready":"0",
+   "num_maps":3,
+   "maplist":[
+      "de_mirage",
+      "de_overpass",
+      "de_inferno",
+      "de_nuke",
+      "de_vertigo",
+      "de_ancient",
+      "de_anubis"
+   ],
+   "cvars":{
+      "hostname":"Fedi vs. Serega SD IT Tournament",
+      "mp_friendlyfire":"1",
+      "mp_maxrounds":"13"
+   },
+   "spectators":{
+      "players":{
+         "76561198249388824":"",
+         "76561198019050077":""
+      }
+   },
+   "team1":{
+      "name":"Команда Феди",
+      "players":{
+         "76561198249388824":"",
+      }
+   },
+   "team2":{
+      "name":"Команда Сереги",
+      "players":{
+         "76561198019050077":"",
+      }
+   }
+}
