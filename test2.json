@@ -1,6 +1,6 @@
 {
    "matchid":"1",
-   "match_title":"Fedi vs. Serga",
+   "match_title":"Fedi vs. Serega",
    "skip_veto":false,
    "veto_first":"team1",
    "side_type":"standard",
@@ -19,23 +19,26 @@
       "de_anubis"
    ],
    "cvars":{
-      "hostname":"SD IT CS2 Server",
+      "hostname":"Fedi vs. Serega SD IT Tournament",
       "mp_friendlyfire":"1",
       "mp_maxrounds":"13"
    },
-  
+   "spectators":{
+      "players":{
+         "76561198249388824":"",
+         "76561198019050077":""
+      }
+   },
    "team1":{
       "name":"FediTEam",
       "players":{
          "76561198249388824":"",
-         "76561198113443256":""
       }
    },
    "team2":{
       "name":"SeregaTeam",
       "players":{
          "76561198019050077":"",
-         "76561198310592523":""
       }
    }
 }
