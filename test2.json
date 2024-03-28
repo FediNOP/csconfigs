@@ -1,5 +1,29 @@
 {
-   "matchid":"27",
+   "matchid":"1",
+   "match_title":"Fedi vs. Serga",
+   "skip_veto":false,
+   "veto_first":"team1",
+   "side_type":"standard",
+   "clinch_series":true,
+   "players_per_team":5,
+   "min_players_to_ready":2,
+   "min_spectators_to_ready":"0",
+   "num_maps":3,
+   "maplist":[
+      "de_mirage",
+      "de_overpass",
+      "de_inferno",
+      "de_nuke",
+      "de_vertigo",
+      "de_ancient",
+      "de_anubis"
+   ],
+   "cvars":{
+      "hostname":"SD IT CS2 Server",
+      "mp_friendlyfire":"1",
+      "mp_maxrounds":"13"
+   },
+  
    "team1":{
       "name":"FediTEam",
       "players":{
@@ -13,25 +37,5 @@
          "76561198019050077":"",
          "76561198310592523":""
       }
-   },
-   "num_maps":3,
-   "maplist":[
-      "de_mirage",
-      "de_overpass",
-      "de_inferno",
-      "de_nuke",
-      "de_vertigo",
-      "de_ancient",
-      "de_anubis"
-   ],
-   "skip_veto":false,
-   "veto_first":"team1",
-   "clinch_series":true,
-   "players_per_team":2,
-   "side_type": "standard",
-   "cvars":{
-      "hostname":"SD IT CS2 Server",
-      "mp_friendlyfire":"1",
-      "mp_maxrounds":"5"
    }
 }
